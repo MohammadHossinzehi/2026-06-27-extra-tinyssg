@@ -1,0 +1,11 @@
+{
+  "name": "tinyssg",
+  "version": "1.0.0",
+  "description": "A dependency-free static site generator: Markdown + frontmatter in, static HTML out.",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
